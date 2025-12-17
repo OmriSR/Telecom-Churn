@@ -92,4 +92,3 @@ The threshold of 0.30 was chosen because in this business context:
 - **False positives are cheap** - Unnecessary discount costs only $300
 
 This asymmetry justifies a lower threshold that catches more churners at the cost of some false alarms. The economics clearly favor recall over precision.
-# Telecom-Churn
